@@ -1,0 +1,10 @@
+function persistence(num) {
+    const stringNum = num.toString();
+    if (stringNum.length === 1) {
+        return 0;
+    };
+    const splitNum = stringNum.split('');
+    const NumbersArray = splitNum.map(num => Number(num));
+    resolveNum = NumbersArray.reduce( (acc, num) => acc * num);
+     return  1 +  persistence(resolveNum);
+}
