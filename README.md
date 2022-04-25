@@ -5,3 +5,6 @@
 2.persistence
 Напишите функцию persistence, которая принимает положительный параметр num и возвращает его мультипликативную стойкость, то есть количество раз, которое вы должны умножить на num, пока не получите одну цифру.
 Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
+
+3.filter_list 
+In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
