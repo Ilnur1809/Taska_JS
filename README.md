@@ -17,3 +17,8 @@ multiplesNumber3and5
 // If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
 Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them).
+5.
+narcissistic
+// Test.assertEquals(narcissistic( 7 ), true, "7 is narcissistic" );
+// Test.assertEquals(narcissistic( 371 ), true, "371 is narcissistic" );
+// Test.assertEquals(narcissistic( 77 ), false, "7 is not narcissistic" );
