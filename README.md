@@ -23,6 +23,7 @@ narcissistic
 // Test.assertEquals(narcissistic( 371 ), true, "371 is narcissistic" );
 // Test.assertEquals(narcissistic( 77 ), false, "7 is not narcissistic" );
 5.
+
 toCamelCase
 // Complete the method/function so that it converts dash/underscore delimited words into camel casing.
 // The first word within the output should be capitalized only if the original word was capitalized
